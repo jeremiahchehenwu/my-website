@@ -6,7 +6,7 @@ Updates made on master on GitHub before rebase.
 
 ##Purpose
 
-## Repository Purpose
+## Purpose
 
 This will be a change that conflicts
 
